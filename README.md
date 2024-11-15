@@ -1,5 +1,5 @@
 
-Here's a sample README for your diabetes prediction project:
+
 
 Diabetes Prediction Model
 This repository contains the code and resources for a machine learning project aimed at predicting the likelihood of diabetes in patients based on medical and demographic features. The project uses a dataset from the National Institute of Diabetes and Digestive and Kidney Diseases to develop a classification model for diabetes detection.
